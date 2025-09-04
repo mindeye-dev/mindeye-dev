@@ -76,6 +76,5 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 <p align="center">
   <i>&copy; <a href="https://github.com/mindeye-dev/">mindeye-dev </a> 2024 - Present</i><br>
   <i>Licensed under <a href="https://github.com/mindeye-dev/mindeye-dev/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
-  <a href="https://octodex.github.com/swagtocat/"><img src="assets/swagtocat.png" width="60" height="60" /></a><br>
   <kbd>Thanks for visiting 🙂</kbd>
 </p>
