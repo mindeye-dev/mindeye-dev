@@ -41,8 +41,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
    <br><br>
    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=mindeye-dev&theme=algolia&card_width=800" alt="mindeye-dev"/>
    <br><br>
-   <img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="mindeye-dev"/>
-   <br><br>
    <p align="center">📫 Let's connect and build something amazing together!</p>
   </p>
  </details>
