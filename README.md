@@ -36,6 +36,57 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
  </details>
  
 <details close>
+
+<summary><h2> ❓ What I major in </h2></summary>
+
+Python- 10 years
+<br/>
+Pandas- 10 years
+<br/>
+Scikit-learn- 5 years
+<br/>
+PyTorch- 4 years
+<br/>
+Flask- 6 years
+<br/>
+Artificial Intelligence - 8 years, 
+<br/>
+Neural Network - 6 years, 
+<br/>
+Computer Vision - 5 years, 
+<br/>
+Data Analysis - 5 years, 
+<br/>
+Prompt Engineering - 2 years, 
+<br/>
+LLM - 5 years, 
+<br/>
+OpenAI - 2 years, 
+<br/>
+Chatbot Development- 3 years, 
+<br/>
+Streamlit Development - 4 years,
+<br/>
+Google Cloud Platform- 6 years
+<br/>
+LangChain - 3 years
+<br/>
+Amazon Web Service(AWS)- 10 years
+<br/>
+Explainable Artificial Intelligence(XAI)- 7 years
+<br/>
+Psychology & Mental Health- 3 years
+<br/>
+Deep Learning- 6 years
+<br/>
+Multi-task Learning- 2 years
+<br/>
+Meta Learning - 2 years
+<br/>
+
+</details>
+<details close>
+
 <summary><h2>🔭 My github stats</h2></summary>
   <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindeye-dev&layout=compact&theme=algolia&langs_count=20" alt="mindeye-dev"/>&nbsp;&nbsp;&nbsp;
