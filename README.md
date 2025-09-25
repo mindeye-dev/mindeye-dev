@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 <details close>
 <summary><h2>🌟 About Me</h2></summary>
  
-  - 💻 I specialise in JS, PHP and Java, but I also enjoy exploring other technologies and languages.
+  - 💻 I specialise in JS, PHP ,Java and AI, but I also enjoy exploring other technologies and languages.
   - 🚀 I'm always eager to learn new things and take on new challenges.
   - 🎓 I believe in the power of knowledge-sharing and open source.
 </details>
