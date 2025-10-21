@@ -20,6 +20,10 @@ I am consulting for startups.
   Cloud: AWS, etc.
   <br/>
   AI: LLM, Computer Vision.
+
+<br/> ## Future
+<br/>
+I never plan never far ahead.
 </p>
 
 
