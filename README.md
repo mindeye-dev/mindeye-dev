@@ -7,6 +7,14 @@
 <p aligne="left">
 Developer since the 2017. My code is almost guaranteed to run in your devices, in one way or another.
 I am consulting for startups.
+  <br/>
+  Frontend: React, Next, etc
+  <br/>
+  Backend: Node.js, Python, Go, Rust, etc
+  <br/>
+  Cloud: AWS, etc
+  <br/>
+  AI: LLM, Computer Vision
 </p>
 
 
