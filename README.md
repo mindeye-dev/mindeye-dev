@@ -9,17 +9,6 @@ Open Source supporter and developer since the 2015. My code is almost guaranteed
   
 </p>
 
-<details close>
-<summary><h2>🌟 About Me</h2></summary>
- 
-  - 💻 I specialise in JS, PHP ,Java, Python, C++, Go, Rust and AI, but I also enjoy exploring other technologies and languages.
-  - 🚀 I'm always eager to learn new things and take on new challenges.
-  - 🎓 I believe in the power of knowledge-sharing and open source.
-</details>
-
-<details close>
-
----
 
 <p align="center">
   <i>&copy; <a href="https://github.com/mindeye-dev/">mindeye-dev </a> 2017 - Present</i><br>
