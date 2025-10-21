@@ -5,7 +5,7 @@
 </h1>
 
 <p aligne="left">
-Open Source supporter and developer since the 2017. My code is almost guaranteed to run in your devices, in one way or another.
+Developer since the 2017. My code is almost guaranteed to run in your devices, in one way or another.
   
 </p>
 
