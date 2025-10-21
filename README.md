@@ -6,7 +6,7 @@
 
 <p aligne="left">
 Developer since the 2017. My code is almost guaranteed to run in your devices, in one way or another.
-  
+I am consulting for startups.
 </p>
 
 
