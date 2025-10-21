@@ -123,6 +123,6 @@ Meta Learning - 2 years
 ---
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/mindeye-dev/">mindeye-dev </a> 2024 - Present</i><br>
+  <i>&copy; <a href="https://github.com/mindeye-dev/">mindeye-dev </a> 2017 - Present</i><br>
   <kbd>Thanks for visiting 🙂</kbd>
 </p>
