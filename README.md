@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 <details close>
 <summary><h2>🌟 About Me</h2></summary>
  
-  - 💻 I specialise in JS, PHP ,Java and AI, but I also enjoy exploring other technologies and languages.
+  - 💻 I specialise in JS, PHP ,Java, Python, C++, Go, Rust and AI, but I also enjoy exploring other technologies and languages.
   - 🚀 I'm always eager to learn new things and take on new challenges.
   - 🎓 I believe in the power of knowledge-sharing and open source.
 </details>
@@ -24,11 +24,11 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Engineer and open-sour
 <summary><h2>🛠️ Skills and expertise</h2></summary>
 
 - **Backend:** Node.js, Express.js, NestJS, Go, Symfony.
-- **Frontend:** Angular, HTML, SCSS, CSS, Bootstrap.
-- **Programming Languages:** JavaScript, TypeScript, PHP, Python, Go, C++.
+- **Frontend:** React, Next, Angular, HTML, SCSS, CSS, Bootstrap.
+- **Programming Languages:** JavaScript, TypeScript, PHP, Python, Go, C++, Rust.
 - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite.
 - **Tools:** Git, Docker, K8S, Jenkins, Lens, Kafka, Redis, Argocd, Portainer, ELK-Stack, Grafana, Graylog, Prometheus.
-- **Languages:** English, French, German, Italian and Arabic.
+- **Languages:** English.
 
 <img src="assets/devTools.png" alt="devTools"/>
 <br><br>
