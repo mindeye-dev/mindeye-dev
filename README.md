@@ -83,20 +83,7 @@ Meta Learning - 2 years
 </details>
 <details close>
 
-<summary><h2>🔭 My github stats</h2></summary>
-  <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindeye-dev&layout=compact&theme=algolia&langs_count=20" alt="mindeye-dev"/>&nbsp;&nbsp;&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api?username=mindeye-dev&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="mindeye-dev"/>
-   <br><br>
-   <img src="https://github-profile-trophy.vercel.app/?username=mindeye-dev&theme=algolia&column=5&margin-w=15&margin-h=15" alt="mindeye-dev"/>
-   <br><br>
-   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=mindeye-dev&theme=algolia&card_width=800" alt="mindeye-dev"/>
-   <br><br>
-   <p align="center">📫 Let's connect and build something amazing together!</p>
-  </p>
- </details>
 
-<details close>
  <summary><h2>🚀 Technologies & Projects</h2></summary>
  I specialise in building scalable applications, backend services, and DevOps solutions using various modern technologies.
  
