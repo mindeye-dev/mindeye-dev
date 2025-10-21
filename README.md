@@ -21,7 +21,7 @@ I am consulting for startups.
   <br/>
   AI: LLM, Computer Vision.
 
-<br/> ## Future
+<br/> <h3> Future</h3>
 <br/>
 I never plan never far ahead.
 </p>
