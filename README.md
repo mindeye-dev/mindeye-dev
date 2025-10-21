@@ -5,7 +5,8 @@
 </h1>
 
 <p aligne="left">
-Welcome to my GitHub profile! I'm a passionate Full-Stack & AI Engineer and open-source contributor, specialising in widely acclaimed technologies such as Angular, React, Next, Spring Boot, Quarkus, Android, Node.js, Symfony, Go, Rust and DevOps. My journey in the world of programming has been driven by a deep curiosity and a desire to create efficient, scalable, and user-friendly applications.
+Open Source supporter and developer since the 2015. My code is almost guaranteed to run in your devices, in one way or another.
+  
 </p>
 
 <details close>
