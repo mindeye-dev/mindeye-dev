@@ -8,6 +8,8 @@
 Developer since the 2017. My code is almost guaranteed to run in your devices, in one way or another.
 I am consulting for startups.
   <br/>
+  <br/>
+  <br/>
   Frontend: React, Next, etc
   <br/>
   Backend: Node.js, Python, Go, Rust, etc
