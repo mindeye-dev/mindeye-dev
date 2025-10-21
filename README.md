@@ -10,13 +10,13 @@ I am consulting for startups.
   <br/>
   <br/>
   <br/>
-  Frontend: React, Next, etc
+  Frontend: React, Next, etc.
   <br/>
-  Backend: Node.js, Python, Go, Rust, etc
+  Backend: Node.js, Python, Go, Rust, etc.
   <br/>
-  Cloud: AWS, etc
+  Cloud: AWS, etc.
   <br/>
-  AI: LLM, Computer Vision
+  AI: LLM, Computer Vision.
 </p>
 
 
